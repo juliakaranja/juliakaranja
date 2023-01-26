@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!-- - 📫 Let's get social: <a href="https://www.linkedin.com/in/julia-karanja-464b0b189/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   -->
 
-- 🤓 I'm Python Advocate (a.k.a. Evangelist)
+- 🤓 I'm a Python Advocate (a.k.a. Evangelist)
 - 💬 Let's talk about Data Science, Machine Learning, Data Visualizations
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
 - Originally from **Nairobi, Kenya** 
