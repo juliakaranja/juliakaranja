@@ -1,7 +1,8 @@
 # Hello there 👋, I'm Julia! 🦦
 
 **Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-julia-karanja-464b0b189?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-karanja-464b0b189/)](https://www.linkedin.com/in/julia-karanja-464b0b189/) [![Github Badge](https://img.shields.io/badge/-juliakaranja-grey?style=flat&logo=github&logoColor=white&link=https://github.com/juliakaranja/)](https://www.github.com/juliakaranja/) 
+[![Linkedin Badge](https://img.shields.io/badge/-juliakaranja-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-karanja-464b0b189//)](https://www.linkedin.com/in/julia-karanja-464b0b189/) 
+[![Github Badge](https://img.shields.io/badge/-juliakaranja-grey?style=flat&logo=github&logoColor=white&link=https://github.com/juliakaranja/)](https://www.github.com/juliakaranja/) 
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
 <!--
